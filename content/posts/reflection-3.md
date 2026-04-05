@@ -1,14 +1,14 @@
-\---
-
-title = "Reflection 3"
-
-date = "2026-04-05"
-
++++
+date = '2026-04-05'
 draft = false
+title = 'The steps of success'
++++
 
-\---
+
+
+This is my third reflection blog.
 
 
 
-when the topic was first introduced, I thought that
+Today I learned about...
 

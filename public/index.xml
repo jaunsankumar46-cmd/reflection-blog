@@ -6,8 +6,15 @@
     <description>Recent content on My Reflection Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The steps of success</title>
+      <link>http://localhost:1313/posts/reflection-3/</link>
+      <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/reflection-3/</guid>
+      <description>&lt;p&gt;This is my third reflection blog.&lt;/p&gt;&#xA;&lt;p&gt;Today I learned about&amp;hellip;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My experience on information problems</title>
       <link>http://localhost:1313/posts/nature-of-information-problems/</link>
@@ -21,13 +28,6 @@
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/understanding-information/</guid>
       <description>&lt;p&gt;When the topic was first introduced by the instructor in the class I just knew that information is a collection of data. But when the instructor started explaining  in detail I realized that it is something deeper than I thought, it is used to gain knowledge by organizing and interpreting data  . It may be used to sort and organize  a collection of data that can be used to gain knowledge of how to use the information. The instructor showed us an example of sorting a collection of data using tools such as excel and  google sheets. It was slightly challenging for me as it was my first time using those tools but later I understood the basics of how to use google sheets and excel  by practice. The making of the plots and graphs as a form of representation was interesting for me as I can find information about those things that are useful and important  for me. For example, I can plot a graph for my academic performance across  the different  semesters or academic performance  in different courses  so that I can keep track of my performance and I can give more time for the course where I found difficulties in learning. The instructor made us do everything on our laptops which I found an effective way to teach those things. I found sometimes it was difficult and sometimes it was easy and I think it is the way of learning . the topic might be useful for me in future for doing some kind of analysis using raw data in google sheets or excel&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/posts/reflection-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/reflection-3/</guid>
-      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;title = &amp;ldquo;Reflection 3&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;date = &amp;ldquo;2026-04-05&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;draft = false&lt;/p&gt;&#xA;&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;when the topic was first introduced, I thought that&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
