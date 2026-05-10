@@ -2,23 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/jaunsankumar46-cmd/reflection-blog/</loc>
+    <lastmod>2026-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jaunsankumar46-cmd/reflection-blog/posts/</loc>
+    <lastmod>2026-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jaunsankumar46-cmd/reflection-blog/posts/reflection-4/</loc>
+    <lastmod>2026-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jaunsankumar46-cmd/reflection-blog/posts/reflection-3/</loc>
     <lastmod>2026-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/reflection-3/</loc>
-    <lastmod>2026-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/nature-of-information-problems/</loc>
+    <loc>http://localhost:1313/jaunsankumar46-cmd/reflection-blog/posts/nature-of-information-problems/</loc>
     <lastmod>2026-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/understanding-information/</loc>
+    <loc>http://localhost:1313/jaunsankumar46-cmd/reflection-blog/posts/understanding-information/</loc>
     <lastmod>2026-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/jaunsankumar46-cmd/reflection-blog/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/jaunsankumar46-cmd/reflection-blog/tags/</loc>
   </url>
 </urlset>
